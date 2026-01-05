@@ -45,17 +45,12 @@ The project uses a **lab-provided, curated dataset** consisting of multiple CSV 
 - **AU_Car_Recalls** – Recall records by model and affected system
 - **AU_Sentiment** – Customer sentiment (Positive, Neutral, Negative)
 
-> Dataset was uploaded to Google Drive and connected via **Google Sheets connector** in Looker Studio.
-
 ---
 
 ## 🛠 Tools & Technologies Used
 - **Google Looker Studio**
-- **Google Sheets**
 - **CSV Datasets**
-- **Data Visualization**
-- **Business Intelligence Concepts**
-
+  
 ---
 
 ## 🧠 Skills Demonstrated
@@ -70,9 +65,8 @@ The project uses a **lab-provided, curated dataset** consisting of multiple CSV 
 
 ## 🔄 Project Workflow
 1. **Dataset Preparation**
-   - Downloaded lab-provided CSV files
-   - Uploaded datasets to Google Drive
-   - Converted files to Google Sheets for compatibility
+   - Downloaded lab-provided CSV files.
+   - Converted files to xlsx. format for compatibility.
 
 2. **Data Integration**
    - Connected datasets to Google Looker Studio using the Google Sheets connector
