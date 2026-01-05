@@ -115,7 +115,7 @@ The project uses a **lab-provided, curated dataset** consisting of multiple CSV 
 ---
 
 ## ℹ️ About this Project
-This dashboard was developed as part of the **BI Dashboards with IBM Cognos Analytics and Google Looker Studio** course within the **IBM Data Engineering Professional Specialization**.  
-The project demonstrates practical application of **business intelligence concepts** using industry-standard visualization tools.
+- This dashboard was developed as part of the **BI Dashboards with IBM Cognos Analytics and Google Looker Studio** course within the **IBM Data Engineering Professional Specialization**.  
+- The project demonstrates practical application of **business intelligence concepts** using industry-standard visualization tools.
 
 ---
