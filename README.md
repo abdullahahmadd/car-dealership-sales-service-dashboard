@@ -1,4 +1,4 @@
-# 🚗 Car Dealership Sales & Services Dashboard
+# 🚗 Car Dealership Sales & Services Dashboard (Google Looker Studio)
 ### 🎓 IBM Data Engineering Specialization – Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.car-dealership-sales-service-dashboard)
